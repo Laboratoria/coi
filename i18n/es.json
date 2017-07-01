@@ -1,0 +1,16 @@
+{
+  "title": "Composition over inheritance",
+  "common": {},
+  "exercise": {
+    "HOF": "Higher Order Functions",
+    "MAP": "Map",
+    "FILTER": "Filter",
+    "REDUCE": "Reduce",
+    "ARROW FUNCTIONS": "Funciones flecha (arrow functions)",
+    "CLOSURES": "Closures",
+    "FACTORY": "Object factories",
+    "OBJECT ASSIGN": "Object.assign()",
+    "OBJECT COMPOSITION": "Composición de objetos"
+  },
+  "exercises": {}
+}

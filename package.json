@@ -1,0 +1,19 @@
+{
+  "name": "coi",
+  "version": "1.0.0",
+  "description": "Composition over inheritance workshop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laboratoria/coi.git"
+  },
+  "bin": {
+    "coi": "./bin/coi"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "workshopper-adventure": "^6.0.2",
+    "workshopper-boilerplate": "^1.1.2",
+    "workshopper-exercise": "^3.0.1"
+  }
+}
